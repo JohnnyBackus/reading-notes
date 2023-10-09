@@ -3,6 +3,7 @@ _Former Coastie, Current Nurse, Aspiring Programmer..._
 
 ![image of a journal](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCeTsOpZXh1DM1Xx1EZF19jRY3zo3NexiGVg&usqp=CAU)
 
+
 Herein lies my notes journal for Code Fellows courses.
 Here's a link to my [GitHub portfolio.](https://github.com/johnnybackus)
 
