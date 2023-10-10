@@ -29,3 +29,5 @@ _If desiring to empashize within a single word or group of words lacking spaces 
 _Use brackets [] to designate the name of your hyperlink followed immediately by parenthesis () to contain the url like so: \[hyperlinked word or phrase\]\(URL\)_
 
 **What are the three symbols you can use to create an unordered (bulleted) list with Markdown?**
+
+_"-", "*", or "+"_
