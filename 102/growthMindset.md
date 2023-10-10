@@ -1,6 +1,6 @@
 # 102 Lab 01B - Growth Mindset
 
-_In my own words: A growth mindset[^1] is an outlook on life that is goal-oriented, which embraces challenges and relies on stoking resolve to overcome barriers to personal growth, development, and ultimately achievement._
+_In my own words: A **Growth Mindset**[^1] is an outlook on life that is goal-oriented, which embraces challenges and relies on stoking resolve to overcome barriers to personal growth, development, and ultimately achievement._
 
 ## Some personal reminders to maintain a growth mindset:
 
