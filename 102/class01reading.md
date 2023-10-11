@@ -22,7 +22,7 @@
 
 **When making text bold or italicized for emphasis, it is best practice to use which symbol?**
 
->_If desiring to empashize within a single word or group of words lacking spaces between such as in this ex**am**ple, asterisks are preferred as the underscore symbol may be rendered improperly by some applications._ 
+>_If desiring to empashize within a single word or group of words lacking spaces between such as in this ex**am**ple, asterisks are preferred as the underscore symbol may be rendered improperly by some applications._
 
 **How do you create a link with Markdown?**
 
