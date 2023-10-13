@@ -14,4 +14,4 @@
 
 **How many times will a `while` loop execute?**
 
->*Similar to a `for` loop, `while` loop will execute until it's condition defined condiiton is no longer `true`*
+>*Similar to a `for` loop, `while` loop will execute until it's condition defined condition is no longer `true`*
