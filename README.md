@@ -11,6 +11,7 @@ Here's a link to my [GitHub portfolio.](https://github.com/johnnybackus)
 ## Table of Contents
 
 - [Growth Mindset](https://johnnybackus.github.io/reading-notes/102/growthMindset)
+- [Prompt Engineering Exercise] (https://johnnybackus.github.io/reading-notes/promptEngineering)
 - Course 102
   - [Class01](https://johnnybackus.github.io/reading-notes/102/class01reading)
   - [Class02](https://johnnybackus.github.io/reading-notes/102/class02reading)
