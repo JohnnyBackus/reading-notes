@@ -20,7 +20,7 @@ Here's a link to my [GitHub portfolio.](https://github.com/johnnybackus)
   - [Class06](https://johnnybackus.github.io/reading-notes/102/class06reading)
   - [Class07](https://johnnybackus.github.io/reading-notes/102/class07reading)
   - [Class08](https://johnnybackus.github.io/reading-notes/102/class08reading)
-- Course 103
+- Course 201
   - [Class01](https://johnnybackus.github.io/reading-notes/103/class01reading)
   - [Class02](https://johnnybackus.github.io/reading-notes/103/class02reading)
   - [Class03](https://johnnybackus.github.io/reading-notes/103/class03reading)
