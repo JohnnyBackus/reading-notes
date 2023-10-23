@@ -26,9 +26,9 @@ Here's a link to my [GitHub portfolio.](https://github.com/johnnybackus)
 ### Course 201 - Foundations of Software Development
 
   - [Class01](https://johnnybackus.github.io/reading-notes/201/class01reading)
+  - [Class02](https://johnnybackus.github.io/reading-notes/201/class02reading)
   - [Class03](https://johnnybackus.github.io/reading-notes/201/class03reading)
   - [Class04](https://johnnybackus.github.io/reading-notes/201/class04reading)
-  - [Class02](https://johnnybackus.github.io/reading-notes/201/class02reading)
   - [Class05](https://johnnybackus.github.io/reading-notes/201/class05reading)
   - [Class06](https://johnnybackus.github.io/reading-notes/201/class06reading)
   - [Class07](https://johnnybackus.github.io/reading-notes/201/class07reading)
