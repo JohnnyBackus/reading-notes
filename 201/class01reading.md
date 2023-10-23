@@ -1,6 +1,6 @@
 # How the Web Works
 
-Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
+Some of the below subjects form the foundation for how we use the internet and programming languages to create and run websites.
 
 ## Getting Started
 
