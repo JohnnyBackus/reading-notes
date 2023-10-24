@@ -30,11 +30,9 @@ These three languages are commonly used together to build websites.
 
 >*It's inefficient, difficult to read, and more difficult to update/maintain.*
 
-**Review the block of code below and answer the following questions.**
-    h2 {
-        color: black;
-        padding: 5px;
-    }`
+**Review this block of code and answer the following questions:**
+    `h2 { color: black; padding: 5px; }`  
+
 **What is representing the selector?**
 
 >*`h2`*
@@ -59,11 +57,12 @@ These three languages are commonly used together to build websites.
 
 **Describe a real world Problem you could solve with a Function.**
 
->*I'll just make a quick example...*
-    >function sleepGoal(desiredHours, actualHours) {
-        >let sleepDeficit = actualHours - desiredHours
-        >return sleepDeficit
-    >}
+>*I'll just make a quick example...*  
+
+    function sleepGoal(desiredHours, actualHours) {  
+        let sleepDeficit = actualHours - desiredHours;  
+        return sleepDeficit  
+    }  
 
 ### Making Decisions -- Conditionals
 
