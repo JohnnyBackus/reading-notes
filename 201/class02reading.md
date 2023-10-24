@@ -80,7 +80,7 @@ These three languages are commonly used together to build websites.
 >*2. Less than or greater than: `<` and `>`*
 >*3. Less than or equal to OR greater than or equal to: `<=` and `>=`*
 
-**What is the difference between the logical operator && and ||?**
+**What is the difference between the logical operator `&&` and `||`?**
 
 >*Both operators allow for two or more conditions to be checked simultaneously in an if statement. The AND `&&` operator will only return true if all conditions are true. The OR `||` operator will return true if any of the conditions are true.*
 
