@@ -1,6 +1,6 @@
 # More Readings: HTML Lists, Control Flow with JS, and the CSS Box Model
 
-A little more details regarding how we can apply style and function to our websites.
+A little more detail regarding how we can apply style and function to our websites.
 
 ## HTML: Lists
 
@@ -43,7 +43,7 @@ A little more details regarding how we can apply style and function to our websi
 
 **List five shorthand operators for assignment in javascript and describe what they do.**
 
-*Shorthand operators save a few spacebar keystrokes. In the examples below, the shorthand operators are to the left of the `==`. On the right is the longform equivalent. In these examples, you are also saved from having to type 'x' twice. When 'x' is something much longer in character length, you save a lot more keystrokes.*
+>*Shorthand operators save a few spacebar keystrokes. In the examples below, the shorthand operators are to the left of the `==`. On the right is the longform equivalent. In these examples, you are also saved from having to type 'x' twice. When 'x' is something much longer in character length, you save a lot more keystrokes.*
 
 - *addition* `x += y == x = x + y`  
 - *subtraction* `x -= y == x = x - y`  
