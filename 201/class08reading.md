@@ -28,4 +28,4 @@ Learning about Flexbox for layout design.
 
 ## Things I want to know more about
 
->*Flexbox and grids sounds exciting.
+>*Flexbox and grids sounds exciting.*
