@@ -32,4 +32,4 @@ Troubleshooting our code.
 
 ## Things I want to know more about
 
-*The Chrome console is helpful for debugging, but I'd like to look more into these JS debugger features... I really like the idea of a breakpoints to get a better view of what is actually working or not working before I run the whole thing.
+*The Chrome console is helpful for debugging, but I'd like to look more into these JS debugger features... I really like the idea of a breakpoints to get a better view of what is actually working or not working before I run the whole thing.*
