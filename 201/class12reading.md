@@ -1,51 +1,41 @@
-# HTML Images, Color, Text
+# Chart.js, Canvas
 
-Adding some more style to our websites.
+An Introduction to Canvas and Chart.js
 
-## HTML: Using Images
+## JavaScript Canvas
 
-**What is a real world use case for the `alt` attribute being used in a website?**
+**What does the `<canvas>` allow a developer to acheive?**
 
->*Answer.*
+>*You can draw shapes with javascript... when perusing the first reading, I was unimpressed... after reading about chart.js, I see now that "shapes" can get quite complex.*
 
-**How can you improve accessibility of images in an HTML document?**
+**What is the importance of the closing `</canvas>` tag?**
 
->*Answer.*
+>*The text between the opening and closing tags will be the fallback content in case the browser rendering the page does not support the `<canvas>` element.*
 
-**Provide an example of when the `figure` element would be useful in an HTML document.**
+**Explain what the `getContext()` method does.**
 
->*Answer.*
+>*It takes an argument that identifies the type of context being produced.*
 
-**Describe the difference between a `gif` image and an `svg` image, pretend you are explaining to an elder in your community.**
+## Chart.js Documentation:
 
->*Answer.*
+**What is Chart.js and how it can be brought into your project?**
 
-**What image type would you use to display a screenshot on your website and why?**
+>*Chart.js is an open source, maintained js file you can link to your HTML to display fancy charts using the canvas element.*
 
->*Answer.*
+**List 3 different Chart types you can create using Chart.js.**
 
-## CSS: Usign Color and Styling HTML Elements
+>*Bar, Bubble, and Radar.*
 
-**Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.**
+## Easily Create Stunning Animated Charts with Chart.js
 
->*Answer.*
+**What are some advantages to displaying data via a chart over a table?**
 
-**Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?**
+>*Charts are pretty to look at and convey information more quickly than a table. It also conveys relationships between different data more effectively than the raw numbers.*
 
->*Answer.*
+**How could Chart.js aid your previously created applications visually?**
 
-**What should you consider when choosing fonts for an HTML document?**
-
->*Answer.*
-
-**What do `font-size`, `font-weight`, and `font-style` do to HTML text elements?**
-
->*Answer.*
-
-**Describe two ways you could add spacing around the characters displayed in an h1 element.**
-
->*Answer.*
+>*For the salmon cookies project, a chart might be used to conveniently show the busiest hours for cookie sales at any given store.*
 
 ## Things I want to know more about
 
-*Looks like CSS can offer a lot more control than I realized.*
+*I love charts, so I think I want to nerd out on chart.js. However, they also look like they might be hard to make... so maybe not!*
