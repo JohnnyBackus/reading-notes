@@ -1,51 +1,37 @@
-# HTML Images, Color, Text
+# CSS Transforms, Transitions, and Animations
 
-Adding some more style to our websites.
+Using CSS to add some liveliness to our websites
 
-## HTML: Using Images
+## CSS Transforms
 
-**What is a real world use case for the `alt` attribute being used in a website?**
+**What does a CSS transform allow the developer to do to an element?**
 
->*Answer.*
+>*The transform property allows a developer to animate an element, but is limited to the values associated with the transform property.*
 
-**How can you improve accessibility of images in an HTML document?**
+**Provide an example of a transform and how you could see that being used on a website.**
 
->*Answer.*
+>*One way you might want to use the transform property would be to get a user's attention. A rotate transform given to a figure of a sale tag might encourage a user to click for a discount.*
 
-**Provide an example of when the `figure` element would be useful in an HTML document.**
+## CSS Transitions & Animations
 
->*Answer.*
+**What does a CSS transition allow the developer to do to an element?**
 
-**Describe the difference between a `gif` image and an `svg` image, pretend you are explaining to an elder in your community.**
+>*A transition allows the developer to animate an element in response to a change in state as described by four pesudo-classes: `:hover`, `:focus`, `:active`, and `:target`.*
 
->*Answer.*
+**How does a CSS animation differ from a CSS transition?**
 
-**What image type would you use to display a screenshot on your website and why?**
+>*A transiton animates an element in response to a change in state, but keeps that element at the same relative position on the page. An animation can allow the developer to move the element across a stage and it can respond differntly to multiple changes in state.*
 
->*Answer.*
+## 8 simple CSS3 transitions that will wow your users
 
-## CSS: Usign Color and Styling HTML Elements
+**What are some benefits to using CSS transitions on websites?**
 
-**Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.**
+>*Transitions engage users, and may ultimately encourage them to alter behaviour favorably for the website owner (i.e - more sales). My own personal, unprofessional opinion - it just makes a website seem more legitimate.*
 
->*Answer.*
+**How this topic fit in with your long-term goals?**
 
-**Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?**
-
->*Answer.*
-
-**What should you consider when choosing fonts for an HTML document?**
-
->*Answer.*
-
-**What do `font-size`, `font-weight`, and `font-style` do to HTML text elements?**
-
->*Answer.*
-
-**Describe two ways you could add spacing around the characters displayed in an h1 element.**
-
->*Answer.*
+>*If you want the job, dress to impress. Good CSS is a like outfitting our public reposotories with some nice business casual.*
 
 ## Things I want to know more about
 
-*Looks like CSS can offer a lot more control than I realized.*
+*I'd love to become familiar with some easier CSS tricks that can make a site standout.*
