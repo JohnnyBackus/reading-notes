@@ -39,6 +39,7 @@ Here's a link to my [GitHub portfolio.](https://github.com/johnnybackus)
   - [Class12](https://johnnybackus.github.io/reading-notes/201/class12reading)
   - [Class13](https://johnnybackus.github.io/reading-notes/201/class13reading)
   - [Class14](https://johnnybackus.github.io/reading-notes/201/class14reading)
+  - [Class14 Bonus](https://johnnybackus.github.io/reading-notes/201/class14bonusreading)
   - [Class15](https://johnnybackus.github.io/reading-notes/201/class15reading)
 
 ### Course 301 - Intermediate Software Development
