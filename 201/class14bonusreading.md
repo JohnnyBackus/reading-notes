@@ -11,3 +11,7 @@
 **What impact do teams that operate with a high degree of psychological safety have on their company and the team members?**
 
 >*These teams tend to perform at a higher level. Not only is that a direct benefit to the company's return on investment in their employees, but I don't think it would be a stretch to presume that these employees are retained at a higher rate relative to equally proficient employeres on psychologically unsafe teams.*
+
+**Things I want to know more about**
+
+>*The article identified some factors that contribute to psychologically safe team, but other than the one example given, how successful was Google at changing behaviours so that less safe teams became safer?
