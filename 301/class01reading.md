@@ -28,8 +28,8 @@ Intro to Props and React.
 
 **What is the flow of props?**
 
->*Child to Parent.*
+>*Parent to Child.*
 
 ## Things I want to know more about
 
->*I just realized that I don't kmow what React is.. haha*
+>*I just realized that I don't know what React is.. haha*
