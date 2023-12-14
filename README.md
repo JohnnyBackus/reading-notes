@@ -57,7 +57,8 @@ Here's a link to my [GitHub portfolio.](https://github.com/johnnybackus)
   - [Class11](https://johnnybackus.github.io/reading-notes/301/class11reading)
   - [Class12](https://johnnybackus.github.io/reading-notes/301/class12reading)
   - [Class13](https://johnnybackus.github.io/reading-notes/301/class13reading)
-
+  - [Class14](https://johnnybackus.github.io/reading-notes/301/class14reading)
+    
   ### Course 401 - Advanced Software Development
 
   - [Class01](https://johnnybackus.github.io/reading-notes/401/class01reading)
