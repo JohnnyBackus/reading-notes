@@ -21,8 +21,8 @@ Some inspirational reading/viewing for tackling the 401 course of study and gett
 
 **What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?**
 
->*I'll take the advice provided in the freecodecamp article: having already broken the problem down into sub=problems, I will next debug, reassess, and research.*
+>*I'll take the advice provided in the freecodecamp article: having already broken the problem down into sub-problems, I will next debug, reassess, and research.*
 
 ## Things I want to know more about
 
->*I've done enough reading assignments tonight. I don't want any more information right now, but some day it would be useful to reflect more on ways to gameify my learning as suggested in the Super Mario Effect video.*
+>*I think I've done all the reading I can handle tonight. I may not feel like consuming any more information right now, but some day it would be useful to reflect more on ways to gameify my learning as suggested in the Super Mario Effect video.*
