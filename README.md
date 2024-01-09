@@ -61,6 +61,7 @@ Here's a link to my [GitHub portfolio.](https://github.com/johnnybackus)
     
   ### Course 401 - Advanced Software Development
 
+  - [Data Structures and Algorithms](https://johnnybackus.github.io/reading-notes/401/datastructuresandalgorithms)
   - [Class01](https://johnnybackus.github.io/reading-notes/401/class01reading)
   - [Class02](https://johnnybackus.github.io/reading-notes/401/class02reading)
   - [Class03](https://johnnybackus.github.io/reading-notes/401/class03reading)
