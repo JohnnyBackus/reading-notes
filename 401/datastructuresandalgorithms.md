@@ -35,4 +35,4 @@ Taking a look at this fundamental skillset for software devs.
 
 ## Things I want to know more about
 
->*Answer*
+>*Graphs sound interesting... I'm sure we'll get our chance to learn more soon, though.*
