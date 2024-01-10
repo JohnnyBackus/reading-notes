@@ -1,6 +1,6 @@
 # FileIO & Exceptions
 
-Description
+Reading files and error handling.
 
 ## Reading
 
