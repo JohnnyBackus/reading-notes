@@ -23,7 +23,7 @@ Description
 
 **Explain the concept of recursion and provide an example of how it can be used to solve a problem in Python. What are some best practices to follow when implementing a recursive function?**
 
->*Recursion can be used to solve problems that repeat code by calling itself within itself. This results in a Big O ^n, so it's best to use this approach for small data sets and/or use memoization to cache each value of f(n) through the code as n increases.*
+>*Recursion can be used to solve problems that repeat code by calling itself within itself. This results in a Big O(2^n), so it's best to use this approach for small data sets and/or use memoization to cache each value of f(n) through the code as n increases.*
 
 **What is the purpose of pytest fixtures and code coverage in testing Python code? Explain how they can be used together to improve the quality and maintainability of a project.**
 
