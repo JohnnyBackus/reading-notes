@@ -1,6 +1,6 @@
 # Intro to 401
 
-Description
+Welcome 
 
 ## Reading
 
@@ -24,7 +24,7 @@ Description
 
 **In the context of the reading “Pain and Suffering,” describe the main challenges faced by beginners when learning Python and suggest at least two strategies for overcoming these obstacles.**
 
->*The challenges are all related to sacrifices that may be necessary to handle the compressed course load. Personally, I already lost sleep and failed to exercise during 301. Two strategie to overcome the anticipated obstacled of 401 will be to prioritize going to the climbing gym three time per week as I find doing something active that I love necessary to muster the resilience needed to push through challenges. I'm also going to keep in mind that the worst thing that can happen to me is that I try and fail. There is value in that as well. As much as I would like to earn a living as a software dev, I'll still be ok if I find this isn't for me.*
+>*The challenges are all related to sacrifices that may be necessary to handle the compressed course load. Personally, I already lost sleep, ate poorly, and failed to exercise during 301. One strategy to overcome the anticipated obstacles of 401 will be to prioritize going to the climbing gym three time per week as I find doing something active that I love necessary to muster the resilience needed to push through challenges. The second strategy to employ will be hard cut-offs for homework. Even if the work doesn't get done, I need sleep, because once I fall behind on sleep, everything else gets more difficult, and I fall further behind.
 
 **After reading “Beginners Guide to Big O,” explain the concept of time complexity and space complexity.**
 

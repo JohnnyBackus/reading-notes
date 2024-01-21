@@ -1,6 +1,6 @@
 # Header
 
-Description
+Class Assignment removed from syllabus for observation of MLK Day
 
 
 
