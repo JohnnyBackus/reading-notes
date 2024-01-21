@@ -1,6 +1,6 @@
 # Intro to 401
 
-Welcome 
+Learning approach and basic concepts.
 
 ## Reading
 
