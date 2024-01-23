@@ -32,7 +32,7 @@ Data Week Continued: Intro to Pandas
 
 **Describe the process of loading a dataset into a Pandas DataFrame. What are some common file formats that can be used, and which Pandas functions are utilized to read these formats?**
 
->*The DataFrame class function appears to be able to take values in at least a few formats... NumPy arrays, dictionaries, other Panda DataFrames and Series, strings, and numbers/float/integers*
+>*The DataFrame class function appears to be able to take values in at least a few formats... NumPy arrays, dictionaries, other Panda DataFrames and Series, strings, and numbers/float/integers. Some common file formats used to pass this data include Common File Formats: CSV, Excel, JSON, and SQL.
 
 ## Things I want to know more about
 
