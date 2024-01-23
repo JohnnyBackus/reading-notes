@@ -1,6 +1,6 @@
 # Classes and Objects in Python
 
-Description
+Intro to Class and Objects in Python
 
 ## Reading
 

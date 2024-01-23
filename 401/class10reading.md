@@ -6,24 +6,16 @@ To turn in your reading “Reply” to this discussion by teaching something tha
 
 [Stacks and Queues](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html)
 
-## Response Prompts
+## Reply
 
-**Some ideas for how you might want to teach:**
+>*Node behavior varies:*
 
-- Use an analogy
-- Explain a detail in depth
-- Use WHY, WHAT, HOW structure
-- Tutorial / walk through an example
-- Write a quiz
-- Create a vocabulary/definition list
-- Write a cheat sheet
-- Create a diagram / visualization / cartoon of a topic
-- Anthropomorphize the concepts, and write a conversation between them
-- Build a map of the information
-- Construct a fill-in-the-blank worksheet for the topic
-
->*Answer*
+- Nodes are to stacks, like Marshawn Lynch is to the gym: First in, Last out.
+- Nodes are to queues, like Marshawn Lynch is to media day: Last in, First out.
+- In stacks, you push or pop at the top.
+- In queues.. well, it doesn't rhyme. You enqueue at the rear and dequeue at the front.
+- In both case, you can take a peek or check isEmpty... and if you're at the bottom of a stack or the rear of a queue, your next is Null.
 
 ## Things I want to know more about
 
->*Answer*
+>*n/a for this assignment*
