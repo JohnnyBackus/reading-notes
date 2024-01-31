@@ -38,4 +38,4 @@ Intro to encryption
 
 ## Things I want to know more about
 
->*Answer*
+>*Platforms used to securely share patient information between healtchare providers*
