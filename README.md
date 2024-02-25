@@ -61,7 +61,9 @@ Here's a link to my [GitHub portfolio.](https://github.com/johnnybackus)
     
   ### Course 401 - Advanced Software Development
 
-  - [Data Structures and Algorithms](https://johnnybackus.github.io/reading-notes/401/_datastructures_and_algorithms)
+  - [Data Structures and Algorithms](https://johnnybackus.github.io/reading-notes/401/datastructures_and_algorithms)
+  - [Django Project Setup](https://johnnybackus.github.io/reading-notes/401/django_proj_setup)
+  - [Django with Tailwind & Flowbite Setup](https://johnnybackus.github.io/reading-notes/401/django_tailwind_flowbite_setup)
   - [Engineering Inspiration](https://johnnybackus.github.io/reading-notes/401/engineering_inspo)
   - [Class01](https://johnnybackus.github.io/reading-notes/401/class01reading)
   - [Class02](https://johnnybackus.github.io/reading-notes/401/class02reading)
