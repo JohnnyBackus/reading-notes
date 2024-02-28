@@ -100,7 +100,13 @@ urlpatterns=[
 - Note that the included comments give an example for us
 
 ```python
-path('', include('things.urls')) # add to urlpatterns
+from django.contrib import admin
+from django.urls import path, include
+
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('', include('things.urls')),
+]
 ```
 
 ### Create Templates

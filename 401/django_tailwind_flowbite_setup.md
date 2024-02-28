@@ -14,7 +14,7 @@ In order to integrate Flowbite with Django it takes a few steps.
 
 **NOTE:** These getting started steps were based on the excellent [Tailwind CSS Django - Flowbite](https://flowbite.com/docs/getting-started/django/){:target="_blank"}, just with some tweaks to work better for our labs. Thanks Flowbite!
 
-### Django Compressor
+### Django Compressor (optional, but needed to use Tailwinds extension)
 
 Install `django-compressor` by running the following command in your terminal:
 > `pip install django-compressor`
@@ -39,6 +39,12 @@ COMPRESS_ROOT = BASE_DIR / 'static'
 COMPRESS_ENABLED = True
 
 STATICFILES_FINDERS = ('compressor.finders.CompressorFinder',)
+```
+
+*To restore default Admin functionality, change STATICFILES_FINDERS to:*
+
+```python
+STATICFILES_FINDERS = ('django.contrib.staticfiles.finders.AppDirectoriesFinder', 'compressor.finders.CompressorFinder',)
 ```
 
 1. Create two new folders and an input.css file inside the static/src/ folder:
