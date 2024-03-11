@@ -55,6 +55,12 @@ static
     └── input.css
 ```
 
+## Requirments.txt
+
+- if you haven't done so already, now is a good time to update the requirements.txt so you don't forget:
+
+> `pip freeze > requirements.txt`
+
 ## Edit base.html
 
 Edit `base.html` file inside the templates/ directory:
@@ -152,19 +158,7 @@ Flowbite is an open source library of interactive components built on top of Tai
 Install Flowbite as a dependency using NPM:
 > `npm install flowbite`
 
-Require Flowbite as a plugin inside the tailwind.config.js file:
-
-```javascript
-module.exports = {
-
-    plugins: [
-        require('flowbite/plugin')
-    ]
-
-}
-```
-
-Include Flowbite inside the content value of the tailwind.config.js file:
+Require Flowbite as a plugin and include Flowbite inside the content value of the tailwind.config.js file:
 
 ```javascript
 module.exports = {
@@ -175,7 +169,9 @@ module.exports = {
   theme: {
     extend: {},
   },
-  plugins: [],
+  plugins: [
+        require('flowbite/plugin'),
+    ],
 }
 ```
 

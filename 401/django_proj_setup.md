@@ -6,6 +6,26 @@ Today's demo should methodically go through those common steps.
 
 Give lots of time for each step
 
+## If creating a Custom User Model
+
+- see [learn django](https://learndjango.com/tutorials/django-custom-user-model) for a custom user model tutorial
+- Tip sheet needs one correction due to changes with Django 5. In the home.html template, replace:
+
+```python
+<p><a href="{% url 'logout' %}">Log Out</a></p>
+```
+
+with
+
+```python
+<form action="{% url 'logout' %}" method="post">
+  {% csrf_token %}
+  <button type="submit">Log Out</button>
+</form>
+```
+
+- try [Django Widget Tweaks](https://prettyprinted.com/tutorials/django-widget-tweaks/) for styling the forms
+
 ## Typical Steps to Start Django Project
 
 - create project
@@ -28,9 +48,11 @@ Give lots of time for each step
 - > $ tree
 - > $ python manage.py runserver
   - note the unapplied migrations
-- stop the dev server and address the unapplied migrations warning.
-  - Note how the output gives the code to apply the migration.
-- > $ python manage.py migrate
+  - when ready, address the unapplied migrations warning.
+  - note how the output gives the commmand to apply the migration.
+  - *do not apply migrations before creating a custom user model! See top of this tipsheet for link to custom user model tipsheet*
+  - if not creating a custom model:
+   > $ python manage.py migrate
 - restart dev server and note that warning is gone
 
 ### Create App
@@ -45,9 +67,7 @@ Give lots of time for each step
 There's a multi-step process that takes place whenever an App is added.
 The key components are **views**, **urls**, **templates**.
 
-We'll cover **tests** a little later.
-
-We'll cover **models**, **migrations** and **admin** in next class.
+See other setup guide for **models**, **migrations** and **admin** .
 
 Edit `settings.py`
 

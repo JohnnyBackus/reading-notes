@@ -43,4 +43,3 @@ admin.site.register(Thing)
 def __str__(self):
         return self.name
 ```
- 
